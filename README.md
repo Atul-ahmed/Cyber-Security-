@@ -1,8 +1,4 @@
-Cyber Security Project/   
-└── Project/
-    ├── Exploit.pdf/                            ← Exploitation
-    └── Vulnerability Identification.pdf/       ← Vulnerability Identification# 
-    
+  
 Cyber-Security-
 
 This repository contains my practical lab exercises and reports completed during a Penetration Testing and Cybersecurity course using Kali Linux and security tools.
