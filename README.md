@@ -30,4 +30,4 @@ This repository is for educational and ethical learning purposes only.
 ## Author
 MD. Yeasin Rafi
 
-GitHub:](https://github.com/Atul-ahmed)
+GitHub:(https://github.com/Atul-ahmed)
